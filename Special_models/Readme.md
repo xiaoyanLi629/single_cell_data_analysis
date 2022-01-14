@@ -17,7 +17,7 @@ Baseline models summary
 |    GEX2ADT latent 25     |    0.183    |    0.1886    |    0.1677    |    0.2618    |           |
 |    GEX2ADT latent 10     |    0.185    |    0.1886    |    0.1637    |    0.2618    |           |
 |    GEX2ADT latent 5      |    0.186    |    0.1895    |    0.1683    |    0.2618    |           |
-|      GEX2ADT Resnet      |    0.193    |    0.1954    |    0.1892    |    0.2618    |           |
+|      GEX2ADT Resnet      |    0.193    |    0.1954    |    0.1892    |    0.2618    |  overfitting         |
 |   GEX2ADT + Seurat inte  |    0.141    |    0.1469    |    0.1708    |    0.2618    | converge fast, robust to overfitting |
 |       GEX2ADT CNN        |    0.233    |    0.2046    |    0.2536    |    0.2618    |           |
 |       GEX2ADT GNN        |    xxxxx    |    xxxxxx    |    xxxxxx    |    0.2618    |           |
