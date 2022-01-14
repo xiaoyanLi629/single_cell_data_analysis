@@ -12,7 +12,7 @@ Baseline models summary
 |        GEX2ADT PCA       |    0.322    |    0.2859    |    0.4271    |    0.2618    |           |
 |    GEX2ADT batch_effec   |    0.063    |    0.4487    |    0.5586    |    0.2618    | one batch |
 |    GEX2ADT Seurat inte   |    0.133    |    0.1398    |    0.2169    |    0.2618    |           |
-|    GEX2ADT latent 50     |    0.188    |    0.1915    |    0.1753    |    0.2618    |           |
+|    GEX2ADT latent 50     |    0.188    |    0.1915    |    0.1753    |    0.2618    | conver fast, overfitting          |
 |    GEX2ADT latent 15     |    0.179    |    0.1853    |    0.1667    |    0.2618    |           |
 |    GEX2ADT latent 25     |    0.183    |    0.1886    |    0.1677    |    0.2618    |           |
 |    GEX2ADT latent 10     |    0.185    |    0.1886    |    0.1637    |    0.2618    |           |
