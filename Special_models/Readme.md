@@ -2,7 +2,7 @@ Results comparison
 
 Baseline models summary
 
-|                          |   Training  |  Validation  |   Testing    | Leader board |   Notes   |
+|                          |   Training  |  Validation  |   Testing    | Leader board |  Notes    |
 |     :---                 |    :----:   |     :---:    |    :---:     |    :---:     |   ---:    |
 |   ATAC2GEX binary input  |    0.0017   |    0.0018    |    0.0270    |    0.2466    |           |
 |   ATAC2GEX counts input  |    0.0974   |    0.1046    |    0.0709    |    0.2466    |           |
